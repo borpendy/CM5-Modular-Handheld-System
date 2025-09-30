@@ -6,5 +6,5 @@ sneak peek:
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/bFSAm7s.png" alt="Lower DSpi" width="60%">
+  <img src="https://i.imgur.com/SqIeMea.jpeg" alt="Lower DSpi" width="60%">
 </div>
